@@ -1,0 +1,10 @@
+In our EDA, we found attirbutes that should be considered in predicting popularity and attributes which play close to negligible role.
+
+Moving forward, we will be predicitng popularity with the use of 3 Machine Learning models to determine popularity. The 3 models are as follows:
+
+1. Linear Regression
+2. Random Forest
+3. Decision Tree
+
+For each of the models, they will be built on different set of attributes based on our analysis earlier. Afterwards, the best set of attributes for each model will be determined and the accuracy of the models will be visualised.
+With that, we will determine the best model to help us find the best set of attributes.
